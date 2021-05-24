@@ -8,13 +8,13 @@ npm run dev
 yarn dev
 ```
 ```bash
-php artisan serve
-```
-```bash
 cp .env.example .env
 ```
 ```bash
 php artisan key:generate
+```
+```bash
+php artisan serve
 ```
 
 
